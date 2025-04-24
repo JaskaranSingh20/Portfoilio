@@ -169,16 +169,9 @@ export const companies = [
 ];
 
 export const workExperience = [
+  
   {
     id: 1,
-    title: "SDE-1 Intern at Byteridge.",
-    desc: "Assisted as Full Stack Developer in the development of a web-based platform using Next.js, ASP.NET and enhancing interactivity.",
-    duration: "Jan 2024 - Mar 2024",
-    className: "md:col-span-2",
-    thumbnail: "./exp1.svg",
-  },
-  {
-    id: 2,
     title: "AR Developer Intern at IELTS Proficiency.",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
     duration: "Mar 2023 - Apr 2023",
